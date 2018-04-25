@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "title": "Selena Gomez",
+      "body": "Sutnula Bibera",
+      "id": 4
+    },
+    {
+      "title": "Maja Milanovic",
+      "body": "Artist",
+      "id": 5
+    },
+    {
+      "title": "asdasa",
+      "body": "asdadas",
+      "id": 6
+    },
+    {
+      "title": "matija",
+      "body": "matija",
+      "id": 7
+    },
+    {
+      "title": "Ljuba Doktor",
+      "body": "Polozio hirurgiju",
+      "id": 8
+    },
+    {
+      "title": "Ljuba Doktor",
+      "body": "POlozio hirurgiju opet",
+      "id": 9
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
